@@ -1,5 +1,7 @@
 # **Cloud Native Resource Monitoring Python App on K8s!**
 
+![banner](output.png)
+
 ## **Prerequisites** !
 
 (Things to have before starting the projects)
